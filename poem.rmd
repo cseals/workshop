@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Math_116"
+author: "cseals"
 date: "Fall semester"
 output: html_document
 ---
@@ -24,3 +24,26 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+I want you to know 
+one thing.  
+
+You know how this is:  
+if I look  
+at the crystal moon, at the red branch  
+of the slow autumn at my window,  
+if I touch  
+near the fire  
+the impalpable ash  
+or the wrinkled body of the log,  
+everything carries me to you,  
+as if everything that exists,  
+aromas, light, metals,  
+were little boats  
+that sail  
+toward those isles of yours that wait for me.  
+
+Well, now,  
+if little by little you stop loving me  
+I shall stop loving you little by little.  
+
+If suddenly   
